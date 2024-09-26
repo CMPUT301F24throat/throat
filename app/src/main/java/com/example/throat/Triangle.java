@@ -1,6 +1,5 @@
 package com.example.throat;
 
-public abstract class Shape {
-    private int x, y;
+public class Triangle extends Shape {
     String color = "gray";
 }
