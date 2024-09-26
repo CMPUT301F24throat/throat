@@ -1,6 +1,5 @@
 package com.example.throat;
 
-// five pointed star
-public class Star extends Shape {
+public class Rectangle extends Shape {
     private int height, width;
 }
